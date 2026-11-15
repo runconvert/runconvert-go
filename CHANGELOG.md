@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.1.0 (unreleased)
+## v0.1.0 (2026-11-15)
 
 First version, following the v3 API spec: `Convert` in one call; jobs (Create, Get, List, All, Wait,
 Cancel, Delete); file upload and download; operations; `Me`; webhook signature checks; typed errors;
