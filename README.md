@@ -1,7 +1,5 @@
 # RunConvert SDK for Go
 
-> **Pre-release (v0.1).** The API may still change before 1.0. Updates: https://www.runconvert.com/sdks
-
 Convert files between 240+ formats (3,000+ conversions) with the [RunConvert API](https://www.runconvert.com/docs):
 documents, images, video, audio, ebooks, archives, fonts and CAD. Go 1.21+, standard library only.
 
