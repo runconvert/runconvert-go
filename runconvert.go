@@ -25,7 +25,7 @@ import (
 )
 
 // Version of this SDK.
-const Version = "0.1.0"
+const Version = "0.1.0" // x-release-please-version
 
 // DefaultBaseURL is the production API.
 const DefaultBaseURL = "https://api.runconvert.com/v3"
